@@ -63,7 +63,7 @@ To use AGRISENSE, follow these steps:
 [AGRISENSE](https://agrisensa.streamlit.app/)
 
 
-- [Medhavi Saxena]
-- [medhavi.0803@gmail.com]
+- [Prajwal Gupta]
+- [503prajwal@gmail.com]
 
 
